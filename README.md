@@ -55,8 +55,6 @@
 ---
 
 
-## 🚀 Featured Projects
-
 ### 🧾 HR Management System
 
 <p align="center">
@@ -96,9 +94,14 @@
   <br/>
 
   <p align="center">
-    <img src="رابط1" width="250"/>
-    <img src="رابط2" width="250"/>
-    <img src="رابط3" width="250"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/15.png" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/16.png" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/17.png" width="500"/>
+  </p>
+ <p align="center">
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/19.png" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.png" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/25.png" width="500"/>
   </p>
 
 </details>
