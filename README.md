@@ -53,7 +53,22 @@
 - Payment Tracking 💳
 
 ---
+## 🚀 Featured Projects
 
+### 🧾 HR Management System
+
+<p align="center">
+  <img src="رابط-gif-او-صورة" width="800"/>
+</p>
+
+<p align="center">
+  <a href="رابط-المشروع">
+    <img src="https://img.shields.io/badge/Live Demo-00C853?style=for-the-badge"/>
+  </a>
+  <a href="رابط-الكود">
+    <img src="https://img.shields.io/badge/Source Code-2962FF?style=for-the-badge"/>
+  </a>
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
