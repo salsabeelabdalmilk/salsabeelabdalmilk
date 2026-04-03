@@ -55,11 +55,71 @@
 ---
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 ### 🧾 HR Management System
 
 <p align="center">
-  <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.png" width="800"/>
+  💼 نظام متكامل لإدارة الموارد البشرية يشمل الرواتب، الحضور، والتقارير بشكل احترافي.
 </p>
+
+<details>
+  <summary>📸 View Project Screenshots (Click to expand)</summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="رابط1" width="250"/>
+    <img src="رابط2" width="250"/>
+    <img src="رابط3" width="250"/>
+  </p>
+
+  <p align="center">
+    <img src="رابط4" width="250"/>
+    <img src="رابط5" width="250"/>
+    <img src="رابط6" width="250"/>
+  </p>
+
+  <p align="center">
+    <img src="رابط7" width="250"/>
+    <img src="رابط8" width="250"/>
+    <img src="رابط9" width="250"/>
+  </p>
+
+  <p align="center">
+    <img src="رابط10" width="250"/>
+    <img src="رابط11" width="250"/>
+    <img src="رابط12" width="250"/>
+  </p>
+
+  <p align="center">
+    <img src="رابط13" width="250"/>
+    <img src="رابط14" width="250"/>
+    <img src="رابط15" width="250"/>
+  </p>
+
+</details>
+
+---
+
+### 🏫 Awam Academy System
+
+<p align="center">
+  🎓 منصة تعليمية لإدارة الطلاب، الكورسات، والمدفوعات مع نظام تقارير متقدم.
+</p>
+
+<details>
+  <summary>📸 View Screenshots</summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="رابط1" width="250"/>
+    <img src="رابط2" width="250"/>
+    <img src="رابط3" width="250"/>
+  </p>
+
+</details>
 
 <p align="center">
   <a href="رابط-المشروع">
