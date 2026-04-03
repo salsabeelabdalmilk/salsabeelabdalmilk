@@ -69,34 +69,16 @@
   <br/>
 
   <p align="center">
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/1.PNG" width="250"/>
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.PNG" width="250"/>
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/6.PNG" width="250"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/1.PNG" width="400"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.PNG" width="400"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/6.PNG" width="400"/>
   </p>
 
-  <p align="center">
-    <img src="رابط4" width="250"/>
-    <img src="رابط5" width="250"/>
-    <img src="رابط6" width="250"/>
-  </p>
+  
 
-  <p align="center">
-    <img src="رابط7" width="250"/>
-    <img src="رابط8" width="250"/>
-    <img src="رابط9" width="250"/>
-  </p>
+ 
 
-  <p align="center">
-    <img src="رابط10" width="250"/>
-    <img src="رابط11" width="250"/>
-    <img src="رابط12" width="250"/>
-  </p>
-
-  <p align="center">
-    <img src="رابط13" width="250"/>
-    <img src="رابط14" width="250"/>
-    <img src="رابط15" width="250"/>
-  </p>
+  
 
 </details>
 
