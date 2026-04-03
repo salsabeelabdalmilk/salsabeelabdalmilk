@@ -53,7 +53,7 @@
 - Payment Tracking 💳
 
 ---
-## 🚀 Featured Projects
+
 
 ## 🚀 Featured Projects
 
@@ -69,9 +69,9 @@
   <br/>
 
   <p align="center">
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/1.PNG" width="400"/>
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.PNG" width="400"/>
-    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/6.PNG" width="400"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/1.PNG" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.PNG" width="500"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/6.PNG" width="500"/>
   </p>
 
   
