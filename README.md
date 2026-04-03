@@ -58,7 +58,7 @@
 ### 🧾 HR Management System
 
 <p align="center">
-  <img src="رابط-gif-او-صورة" width="800"/>
+  <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.png" width="800"/>
 </p>
 
 <p align="center">
