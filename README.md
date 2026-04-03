@@ -69,9 +69,9 @@
   <br/>
 
   <p align="center">
-    <img src="رابط1" width="250"/>
-    <img src="رابط2" width="250"/>
-    <img src="رابط3" width="250"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/1.PNG" width="250"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/2.PNG" width="250"/>
+    <img src="https://github.com/salsabeelabdalmilk/salsabeelabdalmilk/blob/main/6.PNG" width="250"/>
   </p>
 
   <p align="center">
